@@ -619,7 +619,7 @@ function App() {
       </a>
 
       <a
-        href="https://wa.me/905513547293"
+        href="https://wa.me/905513547283"
         target="_blank"
         rel="noopener noreferrer"
         className="rounded-lg border border-gray-500 px-7 py-3 font-semibold text-white transition hover:border-emerald-400 hover:text-emerald-300"
